@@ -1,0 +1,6 @@
+[submodule "kanbanClient"]
+	path = kanbanClient
+	url = https://github.com/191prajjwal/kanbanClient.git
+[submodule "kanbanSever"]
+	path = kanbanSever
+	url = https://github.com/191prajjwal/kanbanSever.git
